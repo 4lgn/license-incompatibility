@@ -1,0 +1,10 @@
+{
+  "name": "run50",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "neo4j-driver": "^4.2.3"
+  }
+}

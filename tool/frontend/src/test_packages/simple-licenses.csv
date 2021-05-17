@@ -1,0 +1,15 @@
+﻿Licenses;MIT;BSD-2-Clause;BSD-3-Clause;Apache-2.0;LGPL-2.1;LGPL-2.1+;LGPL-3.0;MPL-2.0;EPL-1.0;CDDL-1.0;GPL-2.0;GPL-2.0+;GPL-3.0;AGPL-3.0
+MIT;;;;;;;;;;;;;;
+BSD-2-Clause;Y;;;;;;;;;;;;;
+BSD-3-Clause;Y;Y;;;;;;;;;;;;
+Apache-2.0;Y;Y;Y;;Y;Y;;;;Y;Y;Y;;Y
+LGPL-2.1;Y;Y;Y;Y;;Y;Y;;Y;Y;;Y;Y;
+LGPL-2.1+;Y;Y;Y;Y;Y;;;;Y;Y;;;;
+LGPL-3.0;Y;Y;Y;Y;Y;Y;;;Y;Y;Y;Y;;Y
+MPL-2.0;Y;Y;Y;Y;;;;;Y;Y;;;;
+EPL-1.0;Y;Y;Y;Y;Y;Y;Y;;;;Y;Y;;Y
+CDDL-1.0;Y;Y;Y;Y;Y;Y;Y;Y;Y;;Y;Y;Y;Y
+GPL-2.0;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;;Y;Y;
+GPL-2.0+;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;;;;
+GPL-3.0;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;
+AGPL-3.0;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y
